@@ -1,4 +1,4 @@
-# 复现经典的神经网络算法（NeuralNetwork-pytorch）
+# DeepLearning复现经典的神经网络算法（NeuralNetwork-pytorch）
 **保研完毕，从零开始学习深度学习，此仓库当作学习记录，有时间就复现论文，欢迎讨论**
 ## 1.LeNet网络分类手写数字  
 <img width="1055" height="276" alt="image" src="https://github.com/user-attachments/assets/73333ebe-44a1-4618-bad5-aa1763ff495a" />  
