@@ -8,7 +8,7 @@ MNIST数据集的一张图片的数据类型为[1,28,28]，代码中第一层卷
 ## 2.VGGNet16网络图像分类  
 <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/7cf1905e-e84c-4d13-9540-d41733f255cf" />  
 
-VGGNet16主要由3X3卷积，池化层和全连接层组成（停更几天，这几天要提交论文手稿）
+VGGNet16主要由3X3卷积（步长1，填充1，不会改变pixel，会改变通道数量），池化层（pixel/2，减少参数量）和全连接层组成（停更几天，这几天要提交论文手稿）
 
 
 
